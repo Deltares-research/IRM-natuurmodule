@@ -1,1 +1,1 @@
-initial commit
+Tool to derive species habitat suitability curves, predict species distributions and aggregate species to species associations and ecotopes. Developed in the context of Integral River Management (IRM) of Rijkswaterstaat. 
